@@ -1,6 +1,6 @@
 # Vizualizare Date — Laborator 3 (CAMS)
 
-## Rulare rapidă
+## Rulare
 1) Instalează dependențele:
 `pip install -r requirements.txt`
 
